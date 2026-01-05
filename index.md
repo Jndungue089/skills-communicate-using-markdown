@@ -11,3 +11,8 @@ I'm starting my brand new interactive course of Markdown here in GitHub, which i
 ##### This is an H5 header
 
 ###### This is an H6 header
+
+## Adding an Image
+
+I'll be adding an image in Markdown:
+![Techify Logo](https://techify.ao/techify-logo.png)
