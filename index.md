@@ -16,3 +16,14 @@ I'm starting my brand new interactive course of Markdown here in GitHub, which i
 
 I'll be adding an image in Markdown:
 ![Techify Logo](https://techify.ao/techify-logo.png)
+
+## Adding code
+
+```
+$ echo "This is a generic code with markdown"
+```
+
+``` javascript
+var hello = "Hello World in Markdown!";
+console.log(hello);
+```
